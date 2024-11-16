@@ -27,13 +27,6 @@
 
 ---
 
-## 🍜 Fun Break: Hakka Noodles!  
-
-**Did you know?** I'm a noodle enthusiast! Here's a little fun GIF to brighten your day:  
-![Hakka Noodles GIF](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)  
-
----
-
 ## 📚 Goals  
 - 👩‍💻 Build my **first project** and showcase my skills.  
 - 🚀 Gain **internship experience** in front-end development.  
