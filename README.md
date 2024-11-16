@@ -1,6 +1,9 @@
 # 👋 Hi there! I'm **Priyanshi Tomar**  
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Welcome+to+My+GitHub!;I'm+a+Tech+Explorer;Front-End+Enthusiast+%7C+Anime+Fan)  
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=26&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Welcome+to+My+GitHub!;BCA+Student+%7C+Tech+Explorer;Front-End+Enthusiast+%7C+Anime+Fan;Always+Learning+%26+Growing!">
+</p>
 
 ---
 
