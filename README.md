@@ -50,6 +50,5 @@ I'm always eager to learn and collaborate:
 🌟 *Thanks for visiting! Happy coding!*
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Priyanshitomar/Priyanshitomar/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Priyanshitomar/Priyanshitomar/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
